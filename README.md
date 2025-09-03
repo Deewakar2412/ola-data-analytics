@@ -9,19 +9,19 @@ It provides insights into **bookings, vehicle types, revenue, cancellations, and
 ## 📷 Dashboard Screenshots
 
 ### 🔹 Overall Performance
-![Overall](screenshots/overall.png)
+<img src="screenshots/overall.png" width="800"/>
 
 ### 🔹 Vehicle Type Analysis
-![Vehicle Type](screenshots/vehicle_type.png)
+<img src="screenshots/vehicle_type.png" width="800"/>
 
 ### 🔹 Revenue Insights
-![Revenue](screenshots/revenue.png)
+<img src="screenshots/revenue.png" width="800"/>
 
 ### 🔹 Cancellation Analysis
-![Cancellation](screenshots/cancellation.png)
+<img src="screenshots/cancellation.png" width="800"/>
 
 ### 🔹 Ratings Overview
-![Ratings](screenshots/ratings.png)
+<img src="screenshots/ratings.png" width="800"/>
 
 ---
 
